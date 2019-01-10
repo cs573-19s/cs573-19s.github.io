@@ -1,0 +1,100 @@
+[
+  {
+    "title": {
+      "text": "Hashtag Trends",
+      "link": "http://cdeng.github.io/HashtagTrends/"
+    },
+    "team": [
+      {
+        "name": "Cheng Deng",
+        "email": "",
+        "site": "https://github.com/cdeng"
+      },
+      {
+        "name": "Mi Tian",
+        "email": "",
+        "site": "https://github.com/mtian0415"
+      },
+      {
+        "name": "Xing Liu",
+        "email": "",
+        "site": "https://github.com/stanley4162004"
+      }
+    ],
+    "description": "A visualization project that shows information spreading through Instagram #Hashtag.",
+    "repo": "https://github.com/cdeng/HashtagTrends",
+    "link": "http://cdeng.github.io/HashtagTrends/",
+    "pic": "/img/fame/hashtag-trends.jpg"
+  },
+  {
+    "title": {
+      "text": "An American Day",
+      "link": "https://benmcmorran.github.io/DataVisFinal/"
+    },
+    "team": [
+      {
+        "name": "Ben McMorran",
+        "email": "",
+        "site": "https://github.com/benmcmorran/"
+      },
+      {
+        "name": "Francisco Sanchez",
+        "email": "",
+        "site": "https://github.com/friscis"
+      }
+    ],
+    "description": "Using data collected by the Bureau of Labor Statistics in the American Time Use Survey, we can get detailed insight into the daily habits that we all share.",
+    "repo": "https://github.com/benmcmorran/anamericanday",
+    "link": "https://benmcmorran.github.io/DataVisFinal/",
+    "pic": "/img/fame/american-day.jpg"
+  },
+  {
+    "title": {
+      "text": "Yelp Business Data",
+      "link": "https://stels07.github.io/DataVisFinal/"
+    },
+    "team": [
+      {
+        "name": "Shi Wang",
+        "email": "",
+        "site": "https://github.com/stels07"
+      },
+      {
+        "name": "Hongzhang Cheng",
+        "email": "",
+        "site": "https://github.com/hcheng3"
+      },
+      {
+        "name": "Yihao Zhou",
+        "email": "",
+        "site": "https://github.com/iihaw"
+      }
+    ],
+    "description": "The idea of this project is to provide a better user experience for selecting restaurants, especially to those who travel to a new place and want to know the general restaurants info of this area.",
+    "repo": "https://github.com/hcheng3/Data-Visualization-Final-Project",
+    "link": "https://stels07.github.io/DataVisFinal/",
+    "pic": "/img/fame/yelp-data.jpg"
+  },
+  {
+    "title": {
+      "text": "Visualization of an NBA Match",
+      "link": "https://braydenxia.github.io/DataVisFinal/"
+    },
+    "team": [
+      {
+        "name": "Xiaozhou Zou",
+        "email": "",
+        "site": ""
+      },
+      {
+        "name": "Yuxuan Xia",
+        "email": "",
+        "site": ""
+      }
+    ],
+    "description": "We built a tool that gives travellers the ability to browse through flight delay and cancellation data for some recent years, across the major carriers in the US and major airports. After using this tool, travellers should be able to guage the performance of various carriers and airports.",
+    "repo": "",
+    "link": "https://braydenxia.github.io/DataVisFinal/",
+    "pic": "/img/fame/nba.jpg"
+  }
+]
