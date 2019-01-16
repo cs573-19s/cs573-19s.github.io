@@ -6,7 +6,7 @@ title: cal
 
 <style>
 
-.header {
+h2 {
   margin: 0 0 1em 0;
   padding: 1em;
   background-color: #EEEEEE;
@@ -34,121 +34,115 @@ h2, ul {
 
 **Note: some links will be blank until they're assigned/uploaded.**
 
-# Week 0 (Jan 09 - 11)
+## Week 0 (Jan 09 - 11)
 
-09-Jan Wed   
+### 09-Jan Wed   
 Topic: Overview of Visualization | Intro to Tools   
 Assigned: Assignment 0 - Course Survey   
 Assigned: Assignment 1 - Hello World: GitHub and d3   
 
-10-Jan Thu   
+### 10-Jan Thu   
 Due: Assignment 0 -- 11:59pm   
 
-# Week 1 (Jan 14 - 18)
+## Week 1 (Jan 14 - 18)
 
 Reading:   
-Chapters 1 & 2   
-Suggested Reading:   
-Design is a Search Problem   
-Dear Data (the background and entries themselves)   
+VAD Chapters 1-2   
 
-14-Jan Mon   
-Topic: Data Representation   
+Suggested Reading:   
+[Design is a Search Problem](https://www.youtube.com/watch?v=fThhbt23SGM)   
+[Dear Data](http://www.dear-data.com/theproject) (the background and entries themselves)   
+
+### 14-Jan Mon   
+Topic: Data Representation  
 Assigned: Assignment 2 - Data Visualization, 10 ways   
 
-15-Jan Tue   
-Due: Assignment 1 -- 11:59pm   
+### 16-Jan Wed   
+Topic: Lab on d3 patterns
 
-17-Jan Thu   
+## Week 2 (Jan 21 - 25)
+
+Reading:   
+VAD Chapters 3-4   
+[Sketching designs using the Five Design-Sheet methodology](http://chrisheadleand.com/wp-content/papercite-data/pdf/roberts2015sketching.pdf)
+[Design activity framework for visualization design](http://vis.cs.ucdavis.edu/vis2014papers/TVCG/papers/2191_20tvcg12-mckenna-2346331.pdf)
+
+### 21-Jan Mon   
+Martin Luther King Jr. Day (No Classes)   
+
+### 23-Jan Wed   
+Topic: Visualization Design   
+
+## Week 3 (Jan 28 - Feb 1)
+
+Reading:   
+VAD Chapters 5
+[A nested process model for visualization design and validation](https://www.computer.org/csdl/trans/tg/2009/06/ttg2009060921-abs.html)  
+
+### 28-Jan Mon   
 Topic: Task Abstraction   
-Assigned: Assignment 3 - Replicating a Classic Experiment   
 
-# Week 2 (Jan 21 - 25)
+### 30-Jan Wed   
+Topic: A2 Workday   
 
-Reading:   
-Chapters 3 & 4   
-Suggested Reading:   
-(Paper) A Nested Model for Visualization Design and Validation   
-(Paper) Low-Level Components of Analytic Activity in Information Visualization   
-(Blog) The State of Information Visualization, 2017   
-
-21-Jan Mon   
-Topic: Martin Luther King Jr. Day (No Classes)   
-
-22-Jan Tue   
-Due: Assignment 2 -- 11:59pm   
-
-24-Jan Thu   
-Topic: Design / Evaluation   
-Lab: WhatWhyHow   
-Assigned: Final Project   
-
-# Week 3 (Jan 28 - Feb 1)
+## Week 4 (Feb 4 - 8)
 
 Reading:   
-Chapters 5 & 6   
-Suggested Reading:   
-Ranking Visualizations of Correlation Using Weber's Law   
-Evaluating the Impact of Binning 2D Scalar Fields   
-Error Bars Considered Harmful: Exploring Alternate Encodings for Mean and Error   
 
-28-Jan Mon   
-Topic: Visual Channels and Data Mapping   
-Assigned: Assignment 4 - Maps And Views   
+### 04-Feb Mon   
+Topic: Color
 
-31-Jan Thu   
-Lab: Data Reconstruction   
+### 06-Feb Wed   
+Topic: Color 2 / Lab
 
-# Week 4 (Feb 4 - 8)
-
+## Week 5 (Feb 12 - 16)
 Reading:   
-Chapter 10   
 
-04-Feb Mon   
-Topic: Color   
+### 11-Feb Mon   
+Topic: Visual Channels   
 
-05-Feb Tue   
-Due: Assignment 3 -- 11:59pm   
+### 14-Feb Wed   
+Topic: Visual Channels 2 / Lab   
 
-07-Feb Thu   
-Topic: Color Lab   
+## Week 6 (Feb 18 - 22)   
+Reading: 
 
-# Week 5 (Feb 12 - 16)
-Reading:   
-Chapter 7   
+### 18-Feb Mon   
+Topic: Visualizing Tabular Data   
 
-Suggested Reading:   
-Hierarchical Parallel Coordinates for Exploration of Large Datasets (pdf)   
-Small Multiples, Large Singles: A New Approach for Visual Data Exploration (pdf)   
-How to Use t-SNE Effectively   
+### 20-Feb Wed   
+Topic: Visualizing Tabular Data 2 / Lab   
 
-12-Feb Mon   
-Topic: Tabular Data   
+## Week 7 (Feb 25 - Mar 1)   
 
-14-Feb Thu   
-Topic: Tabular Data Lab   
-Due: Assignment 4 -- 11:59pm   
+### 25-Feb Mon   
+Topic: Discussion / A3 Workday   
 
-15-Feb Fri   
-Due: Project Proposal -- 11:59pm   
+### 27-Feb Wed   
+Topic: A3 Workday   
 
-# Week 6 (Feb 18 - 22)   
-Reading: Networks and Trees 
-Chapter 8   
+## Spring Break (Mar 4 - 8)
 
-19-Feb Mon   
-Topic: TBA   
+## Week 8 (Mar 11 - 15)   
+Topic: Interaction   
 
-21-Feb Thu   
-No class! Reading day
+## Week 9 (Mar 18 - 22)   
+Topic: Visualizing Spatial Data   
 
-# Week 7 (Feb 25 - Mar 1)   
-Reading:   
-Chapter 9   
+## Week 10 (Mar 25 - 29)   
+Topic: Visualizing Trees / Networks   
 
-25-Feb Mon   
-Topic: Networks & Trees   
+## Week 11 (Apr 1 - 5)   
+Topic: Evaluation   
 
-28-Feb Thu   
-Lab: Using the Force   
-Due: Final Project -- 11:59pm   
+## Week 12 (Apr 8 - 12)   
+Topic: Adv Topics 1   
+
+## Week 13 (Apr 15 - 19)   
+Topic: Adv Topics 2   
+
+## Week 14 (Apr 22 - 26)   
+Topic: Adv Topics 3 / Final Project Prep   
+
+## Week 15 (Apr 29 - 30)   
+Topic: Final Project   
