@@ -64,7 +64,7 @@ Topic: Lab on d3 patterns
 
 Reading:   
 VAD Chapters 3-4   
-[Sketching designs using the Five Design-Sheet methodology](http://chrisheadleand.com/wp-content/papercite-data/pdf/roberts2015sketching.pdf)
+[Sketching designs using the Five Design-Sheet methodology](http://chrisheadleand.com/wp-content/papercite-data/pdf/roberts2015sketching.pdf)  
 [Design activity framework for visualization design](http://vis.cs.ucdavis.edu/vis2014papers/TVCG/papers/2191_20tvcg12-mckenna-2346331.pdf)
 
 ### 21-Jan Mon   
@@ -76,7 +76,7 @@ Topic: Visualization Design
 ## Week 3 (Jan 28 - Feb 1)
 
 Reading:   
-VAD Chapters 5
+VAD Chapters 5  
 [A nested process model for visualization design and validation](https://www.computer.org/csdl/trans/tg/2009/06/ttg2009060921-abs.html)  
 
 ### 28-Jan Mon   
