@@ -60,6 +60,9 @@ Assigned: Assignment 2 - Data Visualization, 10 ways
 ### 16-Jan Wed   
 Topic: Lab on d3 patterns
 
+### 18-Jan Fri   
+Due: Assignment 1 -- 11:59pm   
+
 ## Week 2 (Jan 21 - 25)
 
 Reading:   
@@ -84,6 +87,9 @@ Topic: Task Abstraction
 
 ### 30-Jan Wed   
 Topic: A2 Workday   
+
+### 01-Feb Fri   
+Due: Assignment 2 -- 11:59pm   
 
 ## Week 4 (Feb 4 - 8)
 
@@ -120,6 +126,9 @@ Topic: Discussion / A3 Workday
 
 ### 27-Feb Wed   
 Topic: A3 Workday   
+
+### 01-Mar Fri
+Due: Assignment 3 -- 11:59pm   
 
 ## Spring Break (Mar 4 - 8)
 
