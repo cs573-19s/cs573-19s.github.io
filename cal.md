@@ -93,7 +93,8 @@ Due: Assignment 2 -- 11:59pm
 
 ## Week 4 (Feb 4 - 8)
 
-Reading:   
+Reading: Chapters 6, 10  
+[Colorgorical: Creating discriminable and preferable color palettes for information visualization](https://gramaz.io/pdf/gramazio-2016-ccd.pdf)  
 
 ### 04-Feb Mon   
 Topic: Color
