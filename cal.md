@@ -103,7 +103,8 @@ Topic: Color
 Topic: Color 2 / Lab
 
 ## Week 5 (Feb 12 - 16)
-Reading:   
+Reading: VAD Chapters 5, 10 (yes, again-- quiz will focus on visual channels portions)  
+[Crowdsourcing Graphical Perception: Using Mechanical Turk to Assess Visualization Design](http://vis.stanford.edu/files/2010-MTurk-CHI.pdf)   
 
 ### 11-Feb Mon   
 Topic: Visual Channels   
