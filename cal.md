@@ -113,7 +113,7 @@ Topic: Visual Channels
 Topic: Visual Channels 2 / Lab   
 
 ## Week 6 (Feb 18 - 22)   
-Reading: 
+Reading: VAD Chapters 7, 8
 
 ### 18-Feb Mon   
 Topic: Visualizing Tabular Data   
