@@ -124,10 +124,10 @@ Topic: Visualizing Tabular Data 2 / Lab
 ## Week 7 (Feb 25 - Mar 1)   
 
 ### 25-Feb Mon   
-Topic: Discussion / A3 Workday   
+Topic: Discussion / Visualizing Spatial Data  
 
 ### 27-Feb Wed   
-Topic: A3 Workday   
+Topic: Quiz (Tabular and Spatial Data) + A3 Workday   
 
 ### 01-Mar Fri
 Due: Assignment 3 -- 11:59pm   
@@ -138,13 +138,13 @@ Due: Assignment 3 -- 11:59pm
 Topic: Interaction   
 
 ## Week 9 (Mar 18 - 22)   
-Topic: Visualizing Spatial Data   
+Topic: Visualizing Trees / Networks  
 
 ## Week 10 (Mar 25 - 29)   
-Topic: Visualizing Trees / Networks   
+Topic: Evaluation  
 
 ## Week 11 (Apr 1 - 5)   
-Topic: Evaluation   
+Topic:  A4 Workday   
 
 ## Week 12 (Apr 8 - 12)   
 Topic: Adv Topics 1   
