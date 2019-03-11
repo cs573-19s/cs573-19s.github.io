@@ -135,6 +135,9 @@ Due: Assignment 3 -- 11:59pm
 ## Week 8 (Mar 11 - 15)   
 
 ### 11-Mar Mon   
+Reading: VAD Chapters 9, 11  
+[NodeTrix: a hybrid visualization of social networks](https://hal.inria.fr/docs/00/68/99/83/PDF/Henry-InfoVis2007.pdf)
+
 Topic: Visualizing Trees / Networks  
 
 ### 13-Mar Wed   
