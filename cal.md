@@ -30,8 +30,6 @@ h2, ul {
 
 </style>
 
-**This schedule is tentative and under construction. Ignore the dates until this message disappears. We are making changes for this year based on our discussion in the first class. Expect this page to change!**   
-
 **Note: some links will be blank until they're assigned/uploaded.**
 
 ## Week 0 (Jan 09 - 11)
@@ -135,16 +133,38 @@ Due: Assignment 3 -- 11:59pm
 ## Spring Break (Mar 4 - 8)
 
 ## Week 8 (Mar 11 - 15)   
-Topic: Interaction   
 
-## Week 9 (Mar 18 - 22)   
+### 11-Mar Mon   
 Topic: Visualizing Trees / Networks  
 
+### 13-Mar Wed   
+Topic: Lab: Network vis  
+
+## Week 9 (Mar 18 - 22)   
+
+### 18-Mar Mon
+Topic: Interaction   
+
+### 20-Mar Wed
+Topic: Lab: Interaction   
+
 ## Week 10 (Mar 25 - 29)   
+
+### 25-Mar Mon
 Topic: Evaluation  
 
+### 27-Mar Wed
+Topic: Lab day   
+
 ## Week 11 (Apr 1 - 5)   
+### 01-Apr Mon
 Topic:  A4 Workday   
+
+### 03-Apr Wed
+Topic: TBA   
+
+### 05-Apr Fri
+Due: Assignment 4 -- 11:59pm   
 
 ## Week 12 (Apr 8 - 12)   
 Topic: Adv Topics 1   
