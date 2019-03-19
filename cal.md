@@ -146,12 +146,16 @@ Topic: Lab: Network vis
 ## Week 9 (Mar 18 - 22)   
 
 ### 18-Mar Mon
+Reading: VAD Chapters 12, 13  
+[Toward a Deeper Understanding of the Role of Interaction in Information Visualization](http://innovis.cpsc.ucalgary.ca/innovis/uploads/Courses/InfoVisTutorial2010/read_DeeperUnderstanding.pdf)
 Topic: Interaction   
 
 ### 20-Mar Wed
 Topic: Lab: Interaction   
 
 ## Week 10 (Mar 25 - 29)   
+Reading:
+[Empirical Studies in Information Visualization: Seven Scenarios](http://www.heidilam.com/doc/Lametal_7Scene_2012.pdf)
 
 ### 25-Mar Mon
 Topic: Evaluation  
