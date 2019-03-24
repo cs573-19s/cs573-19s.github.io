@@ -180,7 +180,7 @@ Due: Assignment 4 -- 11:59pm
 Topic: Adv Topics 1   
 
 ### 11-Apr Thu
-Due: Prospectus
+Due: [Prospectus](https://github.com/cs573-19s/prospectus)
 
 ## Week 13 (Apr 15 - 19)   
 Topic: Adv Topics 2   
@@ -191,4 +191,4 @@ Topic: Adv Topics 3 / Final Project Prep
 ## Week 15 (Apr 29 - 30)   
 Topic: Final Project   
 
-Due: Final Project & Annotated Bib
+Due: [Final Project](https://github.com/cs573-19s/gradfinal) & [Annotated Bib](https://github.com/cs573-19s/annotated-bibliography)
