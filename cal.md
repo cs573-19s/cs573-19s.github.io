@@ -163,6 +163,9 @@ Topic: Evaluation
 ### 27-Mar Wed
 Topic: Lab day   
 
+### 28-Mar Thu
+Due: [Project Ideas via Google Forms](https://goo.gl/forms/13JyZRoBx3Fa9RXi1)
+
 ## Week 11 (Apr 1 - 5)   
 ### 01-Apr Mon
 Topic:  A4 Workday   
@@ -176,6 +179,9 @@ Due: Assignment 4 -- 11:59pm
 ## Week 12 (Apr 8 - 12)   
 Topic: Adv Topics 1   
 
+### 11-Apr Thu
+Due: Prospectus
+
 ## Week 13 (Apr 15 - 19)   
 Topic: Adv Topics 2   
 
@@ -184,3 +190,5 @@ Topic: Adv Topics 3 / Final Project Prep
 
 ## Week 15 (Apr 29 - 30)   
 Topic: Final Project   
+
+Due: Final Project & Annotated Bib
